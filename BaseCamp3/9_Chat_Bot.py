@@ -57,8 +57,8 @@ def chat(api_key: str, character: str, prompt: str) -> str:
         
         completion = Client.chat.completions.create(
             messages=messages,    
-            model="llama-3.3-70b-versatile",
-            # model="openai/gpt-oss-120b",
+            # model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-120b",
             stop=None,
         )
 
