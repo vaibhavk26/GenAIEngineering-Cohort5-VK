@@ -11,6 +11,7 @@ bearer_scheme = HTTPBearer(auto_error=True)
 
 # Hardcoded token for authentication
 VALID_TOKEN = "u7-jh8gklj-987-traw8"
+#VALID_TOKEN = "abc123"
 
 # Verify function for token
 def verify_token(credentials: HTTPAuthorizationCredentials = Depends(bearer_scheme)):
