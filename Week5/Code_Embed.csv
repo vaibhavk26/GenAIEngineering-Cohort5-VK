@@ -1,0 +1,131 @@
+code,description,incorrect_description
+"vvcc = 0
+for vrri in range(len(seq)):
+    vvcc += seq[vrri]
+out = vvcc",Returns the cumulative addition of elements from an input collection.,Check whether the input is a palindrome.
+"def op_lonohgp(input_data):
+    vbxdvepz = 1
+    for vxfxcjk in range(1, n + 1):
+        vbxdvepz *= vxfxcjk
+    return vbxdvepz",Returns n! using a loop-based accumulation.,Convert all characters to uppercase.
+"vcllmwi = []
+for vmtqriz in data:
+    if vmtqriz % 2 == 0:
+        vcllmwi.append(vmtqriz)
+return vcllmwi",Extract all even numbers from the input list.,Find the minimum value from the list.
+"def op_fvbheh(input_data):
+    vjkih = 0
+    for vdll in range(len(arr)):
+        for vbbuu in range(vdll + 1, len(arr)):
+            if arr[vdll] < arr[vbbuu]:
+                vjkih += 1
+    return vjkih",Count ordered index pairs where earlier elements are smaller than later ones.,Return cumulative product of elements.
+"viymsebk = arr[0]
+for vtpo in range(1, len(arr)):
+    if arr[vtpo] > viymsebk:
+        viymsebk = arr[vtpo]
+return viymsebk",Identifies the largest element present in the sequence.,Generate a list of squared values.
+"vhjr = []
+for vauy in text:
+    if vauy not in vhjr:
+        vhjr.append(vauy)
+return vhjr",Builds a sequence of distinct items without reordering them.,Convert all characters to uppercase.
+"def op_hxgzd(input_data):
+    vwxgmr = 0
+    for vqafmrkt in range(len(seq)):
+        vwxgmr += seq[vqafmrkt]
+    out = vwxgmr",Compute the total sum of all elements in the given sequence.,Check whether the input is a palindrome.
+"def op_jwie(input_data):
+    vmhrp = 1
+    for vjrmle in range(1, n + 1):
+        vmhrp *= vjrmle
+    return vmhrp",Computes the product of all positive integers up to n.,Compute the average of elements in the list.
+"vpzciq = []
+for vlgun in data:
+    if vlgun % 2 == 0:
+        vpzciq.append(vlgun)
+return vpzciq",Extract all even numbers from the input list.,Find the minimum value from the list.
+"def op_uqqj(input_data):
+    vouf = 0
+    for vbbqkynh in range(len(arr)):
+        for vzqpof in range(vbbqkynh + 1, len(arr)):
+            if arr[vbbqkynh] < arr[vzqpof]:
+                vouf += 1
+    return vouf",Count ordered index pairs where earlier elements are smaller than later ones.,Count total number of elements.
+"vgrk = arr[0]
+for vqvlbi in range(1, len(arr)):
+    if arr[vqvlbi] > vgrk:
+        vgrk = arr[vqvlbi]
+return vgrk",Find the maximum value in a list by scanning all elements.,Find the minimum value from the list.
+"def op_dmad(input_data):
+    vhdo = []
+    for vpvbixq in text:
+        if vpvbixq not in vhdo:
+            vhdo.append(vpvbixq)
+    return vhdo",Create a list of unique elements while preserving original order.,Convert all characters to uppercase.
+"def op_ifqmckb(input_data):
+    vrfogzd = 0
+    for vfmdrnlw in range(len(seq)):
+        vrfogzd += seq[vfmdrnlw]
+    out = vrfogzd",Aggregate values in a list by summing each item.,Sort the input values in ascending order.
+"def op_kkjvpwn(input_data):
+    vzkh = 1
+    for vzvw in range(1, n + 1):
+        vzkh *= vzvw
+    return vzkh",Returns n! using a loop-based accumulation.,Check whether the input is a palindrome.
+"def op_nefvwbf(input_data):
+    vmbwiv = []
+    for vuaxb in data:
+        if vuaxb % 2 == 0:
+            vmbwiv.append(vuaxb)
+    return vmbwiv",Returns values satisfying an even-number condition.,Convert all characters to uppercase.
+"vfshcu = 0
+for vdce in range(len(arr)):
+    for vtxyd in range(vdce + 1, len(arr)):
+        if arr[vdce] < arr[vtxyd]:
+            vfshcu += 1
+return vfshcu",Determines how many pairs satisfy arr[i] < arr[j] for i < j.,Find the minimum value from the list.
+"def op_qeu(input_data):
+    vlye = arr[0]
+    for vxuzk in range(1, len(arr)):
+        if arr[vxuzk] > vlye:
+            vlye = arr[vxuzk]
+    return vlye",Find the maximum value in a list by scanning all elements.,Compute the average of elements in the list.
+"def op_egogoww(input_data):
+    vopr = []
+    for vbmfek in text:
+        if vbmfek not in vopr:
+            vopr.append(vbmfek)
+    return vopr",Removes duplicates while keeping first occurrences.,Reverse the sequence and return it.
+"def op_ppdfjgx(input_data):
+    vcsb = 0
+    for vmlcxrtw in range(len(seq)):
+        vcsb += seq[vmlcxrtw]
+    out = vcsb",Aggregate values in a list by summing each item.,Find the minimum value from the list.
+"veegxgqw = 1
+for vzpbku in range(1, n + 1):
+    veegxgqw *= vzpbku
+return veegxgqw",Computes the product of all positive integers up to n.,Generate a list of squared values.
+"vsve = []
+for vaivduzd in data:
+    if vaivduzd % 2 == 0:
+        vsve.append(vaivduzd)
+return vsve",Filters elements that are divisible by two.,Count total number of elements.
+"vklc = 0
+for vnyvpge in range(len(arr)):
+    for vynvxzzj in range(vnyvpge + 1, len(arr)):
+        if arr[vnyvpge] < arr[vynvxzzj]:
+            vklc += 1
+return vklc",Counts increasing value relationships across indices.,Generate a list of squared values.
+"def op_oldawjn(input_data):
+    vheuu = arr[0]
+    for velccc in range(1, len(arr)):
+        if arr[velccc] > vheuu:
+            vheuu = arr[velccc]
+    return vheuu",Find the maximum value in a list by scanning all elements.,Count total number of elements.
+"def op_jhqzvy(input_data):
+    vptzdap = []
+    for vypf in text:
+        if vypf not in vptzdap:
+            vptzdap.append(vypf)
+    return vptzdap",Builds a sequence of distinct items without reordering them.,Generate a list of squared values.
