@@ -1,0 +1,43 @@
+Machine Learning Fundamentals
+
+Introduction to Machine Learning
+Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed. It focuses on the development of computer programs that can access data and use it to learn for themselves.
+
+Supervised Learning
+Supervised learning is a type of machine learning where the algorithm learns from labeled training data. The algorithm makes predictions based on input data and is corrected when its predictions are incorrect. Common applications include classification and regression tasks.
+
+Classification algorithms predict discrete labels. For example, determining whether an email is spam or not spam. Popular classification algorithms include logistic regression, decision trees, random forests, and support vector machines.
+
+Regression algorithms predict continuous values. For instance, predicting house prices based on features like size, location, and age. Linear regression and polynomial regression are fundamental regression techniques.
+
+Unsupervised Learning
+Unsupervised learning involves training algorithms on unlabeled data. The system tries to learn the patterns and structure from the data without explicit guidance. Clustering and dimensionality reduction are primary unsupervised learning techniques.
+
+K-means clustering groups similar data points together. It's widely used in customer segmentation, image compression, and anomaly detection. The algorithm iteratively assigns data points to clusters based on feature similarity.
+
+Deep Learning
+Deep learning uses artificial neural networks with multiple layers to progressively extract higher-level features from raw input. It has revolutionized fields like computer vision, natural language processing, and speech recognition.
+
+Convolutional Neural Networks (CNNs) are particularly effective for image processing tasks. They use convolutional layers to automatically learn spatial hierarchies of features, making them ideal for tasks like image classification and object detection.
+
+Recurrent Neural Networks (RNNs) are designed for sequence data. They maintain an internal state that captures information about previous inputs, making them suitable for tasks like language modeling and time series prediction.
+
+Natural Language Processing
+Natural Language Processing (NLP) focuses on the interaction between computers and human language. Modern NLP uses transformer architectures like BERT and GPT, which have achieved state-of-the-art results across various language tasks.
+
+Word embeddings represent words as dense vectors in a continuous vector space, where semantically similar words are closer together. Popular embedding techniques include Word2Vec, GloVe, and contextual embeddings from transformer models.
+
+Model Evaluation
+Evaluating machine learning models is crucial for understanding their performance. Common metrics include accuracy, precision, recall, F1-score for classification, and mean squared error, R-squared for regression.
+
+Cross-validation helps assess how well a model generalizes to unseen data. K-fold cross-validation divides the data into k subsets and trains the model k times, each time using a different subset for validation.
+
+Overfitting and Underfitting
+Overfitting occurs when a model learns the training data too well, including its noise, resulting in poor performance on new data. Regularization techniques like L1 and L2 regularization help prevent overfitting.
+
+Underfitting happens when a model is too simple to capture the underlying patterns in the data. This can be addressed by increasing model complexity or using more relevant features.
+
+Feature Engineering
+Feature engineering is the process of using domain knowledge to create features that make machine learning algorithms work better. Good features can significantly improve model performance.
+
+Feature scaling ensures that all features contribute equally to the model. Standardization and normalization are common scaling techniques that transform features to a similar scale.

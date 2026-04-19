@@ -1,0 +1,131 @@
+code,description,incorrect_description,Sim_Text_Corr,Sim_Text_Incorr,Sim_HF_Code_Corr,Sim_HF_Code_Incorr,Sim_G_Code_Corr,Sim_G_Code_Incorr
+"vvcc = 0
+for vrri in range(len(seq)):
+    vvcc += seq[vrri]
+out = vvcc",Returns the cumulative addition of elements from an input collection.,Check whether the input is a palindrome.,0.259,0.283,0.539,0.152,0.664,0.546
+"def op_lonohgp(input_data):
+    vbxdvepz = 1
+    for vxfxcjk in range(1, n + 1):
+        vbxdvepz *= vxfxcjk
+    return vbxdvepz",Returns n! using a loop-based accumulation.,Convert all characters to uppercase.,0.195,0.110,0.412,0.151,0.699,0.530
+"vcllmwi = []
+for vmtqriz in data:
+    if vmtqriz % 2 == 0:
+        vcllmwi.append(vmtqriz)
+return vcllmwi",Extract all even numbers from the input list.,Find the minimum value from the list.,0.265,0.186,0.648,0.156,0.721,0.553
+"def op_fvbheh(input_data):
+    vjkih = 0
+    for vdll in range(len(arr)):
+        for vbbuu in range(vdll + 1, len(arr)):
+            if arr[vdll] < arr[vbbuu]:
+                vjkih += 1
+    return vjkih",Count ordered index pairs where earlier elements are smaller than later ones.,Return cumulative product of elements.,0.145,0.150,0.254,0.046,0.735,0.540
+"viymsebk = arr[0]
+for vtpo in range(1, len(arr)):
+    if arr[vtpo] > viymsebk:
+        viymsebk = arr[vtpo]
+return viymsebk",Identifies the largest element present in the sequence.,Generate a list of squared values.,0.281,0.206,0.672,0.045,0.711,0.430
+"vhjr = []
+for vauy in text:
+    if vauy not in vhjr:
+        vhjr.append(vauy)
+return vhjr",Builds a sequence of distinct items without reordering them.,Convert all characters to uppercase.,0.071,0.271,0.369,0.303,0.645,0.496
+"def op_hxgzd(input_data):
+    vwxgmr = 0
+    for vqafmrkt in range(len(seq)):
+        vwxgmr += seq[vqafmrkt]
+    out = vwxgmr",Compute the total sum of all elements in the given sequence.,Check whether the input is a palindrome.,0.069,0.275,0.484,0.122,0.697,0.577
+"def op_jwie(input_data):
+    vmhrp = 1
+    for vjrmle in range(1, n + 1):
+        vmhrp *= vjrmle
+    return vmhrp",Computes the product of all positive integers up to n.,Compute the average of elements in the list.,0.116,0.147,0.334,0.088,0.725,0.531
+"vpzciq = []
+for vlgun in data:
+    if vlgun % 2 == 0:
+        vpzciq.append(vlgun)
+return vpzciq",Extract all even numbers from the input list.,Find the minimum value from the list.,0.232,0.096,0.590,0.098,0.731,0.549
+"def op_uqqj(input_data):
+    vouf = 0
+    for vbbqkynh in range(len(arr)):
+        for vzqpof in range(vbbqkynh + 1, len(arr)):
+            if arr[vbbqkynh] < arr[vzqpof]:
+                vouf += 1
+    return vouf",Count ordered index pairs where earlier elements are smaller than later ones.,Count total number of elements.,0.163,0.128,0.293,0.207,0.735,0.611
+"vgrk = arr[0]
+for vqvlbi in range(1, len(arr)):
+    if arr[vqvlbi] > vgrk:
+        vgrk = arr[vqvlbi]
+return vgrk",Find the maximum value in a list by scanning all elements.,Find the minimum value from the list.,0.233,0.227,0.508,0.432,0.683,0.583
+"def op_dmad(input_data):
+    vhdo = []
+    for vpvbixq in text:
+        if vpvbixq not in vhdo:
+            vhdo.append(vpvbixq)
+    return vhdo",Create a list of unique elements while preserving original order.,Convert all characters to uppercase.,0.099,0.142,0.242,0.160,0.663,0.557
+"def op_ifqmckb(input_data):
+    vrfogzd = 0
+    for vfmdrnlw in range(len(seq)):
+        vrfogzd += seq[vfmdrnlw]
+    out = vrfogzd",Aggregate values in a list by summing each item.,Sort the input values in ascending order.,0.114,0.281,0.277,0.194,0.642,0.593
+"def op_kkjvpwn(input_data):
+    vzkh = 1
+    for vzvw in range(1, n + 1):
+        vzkh *= vzvw
+    return vzkh",Returns n! using a loop-based accumulation.,Check whether the input is a palindrome.,0.229,0.287,0.377,0.108,0.710,0.572
+"def op_nefvwbf(input_data):
+    vmbwiv = []
+    for vuaxb in data:
+        if vuaxb % 2 == 0:
+            vmbwiv.append(vuaxb)
+    return vmbwiv",Returns values satisfying an even-number condition.,Convert all characters to uppercase.,0.144,0.029,0.602,0.032,0.675,0.498
+"vfshcu = 0
+for vdce in range(len(arr)):
+    for vtxyd in range(vdce + 1, len(arr)):
+        if arr[vdce] < arr[vtxyd]:
+            vfshcu += 1
+return vfshcu",Determines how many pairs satisfy arr[i] < arr[j] for i < j.,Find the minimum value from the list.,0.345,0.222,0.582,0.061,0.764,0.490
+"def op_qeu(input_data):
+    vlye = arr[0]
+    for vxuzk in range(1, len(arr)):
+        if arr[vxuzk] > vlye:
+            vlye = arr[vxuzk]
+    return vlye",Find the maximum value in a list by scanning all elements.,Compute the average of elements in the list.,0.204,0.158,0.391,0.129,0.695,0.546
+"def op_egogoww(input_data):
+    vopr = []
+    for vbmfek in text:
+        if vbmfek not in vopr:
+            vopr.append(vbmfek)
+    return vopr",Removes duplicates while keeping first occurrences.,Reverse the sequence and return it.,0.168,0.170,0.346,0.258,0.616,0.536
+"def op_ppdfjgx(input_data):
+    vcsb = 0
+    for vmlcxrtw in range(len(seq)):
+        vcsb += seq[vmlcxrtw]
+    out = vcsb",Aggregate values in a list by summing each item.,Find the minimum value from the list.,0.129,0.138,0.336,0.130,0.654,0.594
+"veegxgqw = 1
+for vzpbku in range(1, n + 1):
+    veegxgqw *= vzpbku
+return veegxgqw",Computes the product of all positive integers up to n.,Generate a list of squared values.,0.210,0.139,0.570,0.086,0.755,0.534
+"vsve = []
+for vaivduzd in data:
+    if vaivduzd % 2 == 0:
+        vsve.append(vaivduzd)
+return vsve",Filters elements that are divisible by two.,Count total number of elements.,0.210,0.158,0.523,0.061,0.685,0.495
+"vklc = 0
+for vnyvpge in range(len(arr)):
+    for vynvxzzj in range(vnyvpge + 1, len(arr)):
+        if arr[vnyvpge] < arr[vynvxzzj]:
+            vklc += 1
+return vklc",Counts increasing value relationships across indices.,Generate a list of squared values.,0.226,0.140,0.027,0.004,0.721,0.494
+"def op_oldawjn(input_data):
+    vheuu = arr[0]
+    for velccc in range(1, len(arr)):
+        if arr[velccc] > vheuu:
+            vheuu = arr[velccc]
+    return vheuu",Find the maximum value in a list by scanning all elements.,Count total number of elements.,0.156,0.162,0.332,0.059,0.697,0.543
+"def op_jhqzvy(input_data):
+    vptzdap = []
+    for vypf in text:
+        if vypf not in vptzdap:
+            vptzdap.append(vypf)
+    return vptzdap",Builds a sequence of distinct items without reordering them.,Generate a list of squared values.,0.117,0.142,0.350,0.104,0.657,0.556

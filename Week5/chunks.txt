@@ -1,0 +1,114 @@
+{'source': 'Accenture', 'topic': 'Generic', 'text': '$ /$  \nTalentSprint  \n/  \nAI and Machine Learning  \n/ What is Agentic AI?'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'AI and Machine Learning  \nLast Updated:  \nFebruary 05, 2026  \nPublished On:  \nOctober 28, 2025  \nSo, let’s think of it this way: you want to plan a trip somewhere, and you ask your digital assistant, “Book my flights, select hotels based on location and budget, arrange local transport, monitor for delays, reroute if needed, and send a summary of any changes'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': '” You asked the chatbot about it, but instead of simply giving you options like basic AI, it actually plans the itinerary and presents a complete travel plan rather than mere suggestions.  \nThat’s the essence of what Agentic AI has become, not just , but'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': '“AI that answers questions”  \nAI that acts with purpose, autonomy, and adaptability  \nWhat is Agentic AI?  \nAgentic AI refers to artificial intelligence systems that can autonomously make decisions with minimal supervision'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'The word "agentic" describes these systems\' agency, their power to act independently with purpose. These AI systems break down specific goals into subtasks and coordinate their efforts through AI orchestration'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': '  \nThese key features define agentic AI:  \nDecision-making capabilities  \nProblem-solving abilities  \nAutonomous operation  \nInteractive functionality  \nStrategic planning capabilities  \nThe systems can evaluate situations and chart their course with minimal human input, thanks to pre-defined plans and objectives'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'How is it different from traditional AI?  \nTraditional AI works within specific algorithms and set rules. These systems handle well-defined tasks like data sorting, face recognition, or language translation based on fixed constraints. Agentic AI, by contrast, shows much broader capabilities'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': '  \nTraditional and agentic AI differ in several important ways:  \nAspect  \nTraditional AI  \nAgentic AI  \nScope of intelligence  \nNarrow and task-specific  \nBroad, goal-oriented, and adaptive  \nAutonomy  \nLow operates under fixed rules  \nHigh, acts independently in real-time  \nInstruction model  \nRequires explicit input or a prompt  \nSelf-directed; understands objectives  \nAdaptability  \nLimited to pre-defined conditions  \nContinuously adapts to changing contexts  \nSystem interaction  \nOperates within siloed systems  \nDirects across systems and workflows  \nDecision-making  \nRule-based and deterministic  \nContext-aware, strategic, and multi-step  \nTraditional and agentic AI differ in several important ways: Traditional AI streamlines routine tasks but stays within programmed limits'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'It responds to known inputs with predictable outputs and excels at rules-based, repeatable work. Agentic AI redefines the limits by taking an active role in problem-solving and decision-making'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Agentic AI vs generative AI  \nBoth technologies showcase advanced AI applications but serve different purposes.  \nGenerative AI creates content. text, images, code, or music, based on input prompts. Its value comes from what the model produces and basic extensions of its capabilities'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Agentic AI focuses on orchestration and execution. It uses Large Language Models as a "brain" to perform actions through tools. One expert puts it simply: "You can define agentic AI with one word: proactiveness". Yes, it is proactive, while generative AI reacts to user input'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Generative AI creates, but agentic AI takes action. The first produces outputs based on learned patterns without real-time adaptation or dynamic interaction. The second processes new information constantly, learns from its surroundings, and adjusts its actions'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'How does Agentic AI work?  \nAgentic AI operates through a cognitive framework called the PRAL loop: Perceive, Reason, Act, and Learn. This repeating process shapes how these autonomous systems adapt and remain accountable'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Perception: gathering immediate data  \nThe AI system starts by building awareness of its surroundings'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': "It collects data from multiple sources:  \nEnvironmental sensors and IoT devices  \nApplication Programming Interfaces (APIs)  \nDatabases and knowledge repositories  \nDirect user interactions and inputs  \nThe perception module acts as the system's eyes and ears"} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': "It gathers visual, auditory, and textual information right away.  \nReasoning: interpreting and planning  \nThe reasoning phase kicks in after data collection, think of it as the system's brain"} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': ' The AI takes several steps at this vital stage:  \nIt processes data to extract meaningful insights  \nIt uses natural language processing, computer vision, or other AI capabilities to interpret information  \nIt spots patterns and grasps broader context  \nIt sets objectives based on predefined goals or user inputs  \nIt creates strategies using decision trees, reinforcement learning, or planning algorithms  \nThe reasoning component ranges from basic conditional logic to advanced methods'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': '  \nAction: executing tasks autonomously  \nThe action phase turns plans into results:  \nThe system picks the best action based on efficiency, accuracy, and predicted outcomes  \nIt carries out chosen actions by working with external systems or responding to users  \nActions might control physical devices, search databases, or create content  \nThe system stays aligned with goals throughout execution  \nThis module helps agentic AI automate tasks from simple data processing to complex workflows'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': "The system makes independent decisions within set limits, which sets it apart from regular automation tools.  \nLearning: improving through feedback  \nThe system keeps adapting to handle tasks better. A dispute resolution service provider's system faced new cases and saw its performance drop"} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'The team adjusted data collection and parsing logic, which quickly fixed the issue.  \nReal-world applications of Agentic AI  \nIndustries of all types use agentic AI to reshape operational workflows through autonomous execution of complex tasks'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'These practical applications show how this technology goes beyond theoretical capabilities to deliver measurable business value.  \n1. Research and development automation  \nScientific domains now use agentic AI as autonomous research partners rather than simple computational tools'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'AI co-scientists generate hypotheses, design experiments, and verify results in chemistry, biology, and materials science fields. These systems have grown from intern-level assistants into PhD-level research partners that conduct independent scientific investigations.  \n2'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Code transformation and legacy system upgrades  \nAI agents excel at modernising outdated software systems through automated analysis and refactoring'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'According to  \nThe Economic Times  \n, in the transportation sector of India, has introduced an AI-based system at the Ara coaching depot to enhance train safety and maintenance'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'This system automates coach cleaning and water refilling while utilising smart sensors to detect potential hazards such as fire, brake binding, and alarm chain pulling.  \nEast Central Railway (ECR)  \n3'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Incident response and system recovery  \nSelf-healing infrastructure powered by AI can notice environmental changes, make intelligent decisions, and execute remediation actions up to the minute. Systems can anticipate, prevent, and respond intelligently to incidents before they escalate'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'To name just one example, when a Data Loss Prevention alert shows that logs no longer reach the Security Information and Event Management system, AI agents can start an automated remediation workflow, checking service status, inspecting log flow, and restarting services if needed.  \n4'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': "Customer service and support automation  \nAI agents enhance response times and deliver personalised experiences in customer service.  \nCustomer service's future involves AI agents that build relationships throughout the customer's experience instead of simply providing support"} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'This creates conversational interfaces where every touchpoint becomes a chance for consistent, contextual engagement'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Also read:  \nBeyond the Chatbot: How Smart AI Actually Makes Customer Service More Human  \nKey benefits of adopting Agentic AI  \nAgentic AI gives organisations game-changing advantages way beyond the reach and influence of regular automation'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'These autonomous systems deliver strategic value in many aspects of business operations.  \n1'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': " Save Time and Cut Costs  \nAgentic AI's advanced features, like autonomous process management and live adaptability, achieve better results than traditional automation:  \nTasks run faster without delays through parallel processing  \nBusinesses become more flexible by adapting to changes quickly  \nRoutine cognitive tasks need less overhead  \nOperations scale smoothly based on workload needs  \nThis lets organisations optimise their resources and point their talent toward growth and innovation"} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': '2. Better user experience and trust  \nAgentic AI makes user interactions better through tailored and responsive service. Users can control entire software systems with simple voice commands instead of complex menus'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': "Workers save countless hours they'd normally spend learning new tools and interfaces.  \nThese systems learn about user priorities to give personalised service. Customer service agents can connect with customers more meaningfully.  \n3"} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': "Grow Smarter Over Time  \nAgentic AI's power lies in its ability to grow and improve. These systems learn from experience, use feedback, and adjust their behaviour when proper controls exist. Most companies rank scalability as their top priority when looking at new tech"} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Organisations can react faster to market changes and customer needs thanks to these adaptive systems. Teams handle bigger workloads without losing quality or spending time on manual setup.  \n4'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Help People Make Better Decisions  \nAgentic AI boosts workforce capabilities by handling routine tasks and providing evidence-based insights. Employees can focus on complex and strategic work that needs creative thinking'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'People show critical thinking in agentic AI companies when they question, improve, or override AI decisions, and can explain why. This shared approach turns people into strategists who guide'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Challenges and limitations of Agentic AI  \nAgentic AI shows great promise, yet organisations face several hurdles they must overcome to implement it successfully.  \n1. Complexity in system design  \nBuilding agentic AI systems requires seamless integration of multiple subsystems'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Natural language processing, reasoning engines, APIs, and databases must work together in a cohesive framework. This creates architectural complexity because agents need effective communication with other agents and enterprise systems  \n2'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Debugging and traceability issues  \nAgentic AI systems fail differently from traditional software with its clear error messages. These systems rely heavily on complex algorithms like deep learning. Their "black-box" nature makes them hard to interpret'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Root cause analysis becomes extremely difficult because agents make decisions without clear traceability. The outputs can vary with similar inputs due to model randomness. The system also compounds errors over time as it learns from past actions.  \n3'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Trust, transparency, and hallucination risks  \nAgents have proven "less robust, prone to more harmful behaviours and capable of generating stealthier content than LLMs". Their autonomous nature makes security challenges worse by magnifying foundational risks'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Companies must build reliable governance frameworks and automated AI governance to reduce these problems.  \nConclusion  \nWe’re stepping into an era where AI doesn’t just serve commands but collaborates toward outcomes'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'The line between user and tool is fading, and in its place, a powerful partnership is emerging.  \nAs businesses adopt this wave, those who learn to design, manage, and guide agentic systems will define the next chapter of innovation'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': '“Because the smartest move today is not to fear autonomy, but to harness it.”  \nFrequently Asked Questions  \nQ1'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'What exactly is Agentic AI, and how does it differ from traditional AI?  \nAgentic AI is an advanced form of artificial intelligence that can autonomously make decisions and act with minimal supervision'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Unlike traditional AI, which operates within fixed rules, Agentic AI exhibits broader capabilities, adapts to changing contexts, and can navigate across systems to achieve specific goals.  \nQ2'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'How does Agentic AI function in real-world applications?  \nAgentic AI operates through a four-stage process: perception (gathering data), reasoning (interpreting and planning), action (executing tasks), and learning (improving through feedback)'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': "It's applied in various fields, including research automation, code transformation, incident response, and customer service, where it can autonomously handle complex tasks and make decisions.  \nQ3"} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'What are the key benefits of implementing Agentic AI in business operations?  \nImplementing Agentic AI can lead to significant operational efficiency and cost savings, enhanced user experiences, improved scalability through continuous learning, and better support for human decision-making'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'It allows organisations to optimise resources, personalise services, and focus human talent on strategic tasks.  \nTalentSprint  \nTalentSprint, Part of Accenture LearnVantage, is a global leader in building deep expertise across emerging technologies, leadership, and management areas'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'With over 15 years of education excellence, TalentSprint designs and delivers high-impact, outcome-driven learning solutions for individuals, institutions, and enterprises'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'TalentSprint partners with leading enterprises and top-tier academic institutions to co-create industry-relevant learning experiences that drive measurable learning outcomes at scale'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'Advance your career with the right program  \nRelated articles  \nAI and Machine Learning  \nAI Literacy for Non-Technical Roles  \nA marketer opens their laptop and asks AI to draft campaign ideas. An HR professional uses it to screen resumes faster'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'A manager relies on it to summarize reports before a  \nAI and Machine Learning  \nPrompt Engineer vs AI Engineer: what’s the difference?  \nAre you building AI, or simply learning how to talk to it effectively'} 
+----
+{'source': 'Accenture', 'topic': 'Generic', 'text': 'That question sits at the heart of one of today’s most interesti  \nAI and Machine Learning  \nWhat are the human skills beating AI and making you irreplaceable?  \nWe’re living in what the calls th  \nWorld Economic Forum'} 
+----

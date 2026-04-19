@@ -5,8 +5,8 @@ import json
 st.set_option('client.showErrorDetails', False)
 
 # Configure Base Url
-BASE_URL = "http://127.0.0.1:5603" 
-# BASE_URL = "https://app-1-c5bu.onrender.com"
+#BASE_URL = "http://127.0.0.1:5603" 
+BASE_URL = "https://genaiengineering-cohort5-vk.onrender.com"
 
 # Page title
 st.set_page_config(page_title="User Management Portal", layout="centered")
